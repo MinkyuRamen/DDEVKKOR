@@ -1,0 +1,44 @@
+.text {
+    font-size: 20px;
+    padding-top : 1%;
+    padding-left : 1.5%;
+    margin : 0.5%;
+    font-weight: 900;
+}
+
+.mainBox{
+    background-color: rgb(213, 213, 213);
+    width: 80%;
+    height: 45%;
+}
+
+.innerBox{
+    background-color: white;
+    width: 21%; height: 76%; margin : 1.5%;
+    display: inline-block;
+    border: 1px solid gray;
+}
+
+.text1{
+    font-size: 16px;
+    color: gray;
+    padding-left : 2%;
+    line-height: 0.8;
+    font-weight: 900;
+}
+
+.text2{
+    font-size: 14px;
+    color: black;
+    padding-left : 2%;
+    font-weight: 900;
+    margin : 0px;
+}
+
+.text3{
+    font-size: 8px;
+    color: black;
+    padding-left : 2%;
+    display: inline-block;
+}
+
